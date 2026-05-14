@@ -1,164 +1,89 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Royhan%20Muhammad%20Al%20Biruni&fontSize=42&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=⚡%20Website%20%26%20Software%20Developer&descAlignY=58&descAlign=50&descSize=18&stroke=7c3aed&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Royhan%20Muhammad%20Al%20Biruni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Website%20%26%20Software%20Developer%20%7C%20Banten%2C%20Indonesia%20🇮🇩&descAlignY=58&descSize=16" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=a855f7&center=true&vCenter=true&width=700&height=60&lines=🚀+Building+the+Future%2C+One+Line+at+a+Time;💡+Crafting+Beautiful+%26+Functional+UIs;🌐+Open+Source+Enthusiast+from+Indonesia;⚙️+TypeScript+%7C+React+%7C+PHP+%7C+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+complex+problems+into+beautiful+UIs+🎨;TypeScript+%7C+React+%7C+PHP+%7C+Laravel;Open+Source+enthusiast+%26+lifelong+learner;Let's+build+something+amazing+together+🚀" />
 
 <br/>
 
-<!-- Badges Row -->
-<a href="mailto:royhanalbiruni2005@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/royhanalbiruni/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/royhan-muhammad-al-biruni-699515341">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+[![Profile Views](https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/RoyhanAB)
+[![GitHub followers](https://img.shields.io/github/followers/RoyhanAB?label=Followers&style=flat&color=0e75b6)](https://github.com/RoyhanAB)
 
 </div>
 
-<br/>
-
 ---
 
-## 🧑‍💻 `whoami`
+### 👨‍💻 About Me
 
 ```ts
-const royhan: Developer = {
-  name     : "Royhan Muhammad Al Biruni",
-  age      : 19,
-  location : "Banten, Indonesia 🇮🇩",
-  role     : "Website & Software Developer",
-  stack    : ["TypeScript", "React", "PHP", "Laravel", "Tailwind CSS"],
-  currently: "Building exciting web projects & learning every day",
-  collab   : "Open Source & Collaborative Projects",
-  contact  : "royhanalbiruni2005@gmail.com",
-  funFact  : "I turn complex problems into simple, beautiful interfaces 🎨",
+const royhan = {
+  pronouns  : "he/him",
+  location  : "Banten, Indonesia 🇮🇩",
+  focus     : ["TypeScript", "React", "Web Development"],
+  interests : ["Software Engineering", "UI/UX", "Open Source"],
+  contact   : "royhanalbiruni2005@gmail.com",
+  funFact   : "I love turning complex problems into simple, beautiful designs 🎨",
 };
 ```
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 What I'm Up To
-- 🛠️ **Working on** exciting Web Dev projects
-- 📚 **Learning** TypeScript, React & modern frameworks
-- 🤝 **Looking to collaborate** on Open Source
-- ✨ **Passionate about** UI/UX & clean code
-- 🎯 **Goal** — Build products that matter
-
-</td>
-<td width="50%">
-
-### ⚡ Quick Facts
-- 🌏 Based in **Banten, Indonesia**
-- 💬 Ask me about **HTML, CSS, PHP, TypeScript**
-- 🧠 Always **learning** something new
-- 🌙 Night owl **coder** 🦉
-- ☕ Powered by **coffee + curiosity**
-
-</td>
-</tr>
-</table>
+- 🔭 Working on **exciting Web Development projects**
+- 🌱 Currently learning **TypeScript, React, and modern web frameworks**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, PHP, TypeScript, React**
+- 📫 Reach me at **royhanalbiruni2005@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&perline=8" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&perline=8" />
-
-### 🔧 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,tailwind,bootstrap,mysql,postgres,laravel,vite,git,github,vscode,figma&perline=8" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyhanAB&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=a855f7&border_radius=12" width="49%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyhanAB&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_radius=12&langs_count=8" width="49%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoyhanAB&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&bg_color=0d1117&color=a855f7&line=7c3aed&point=ff6e96&area=true&area_color=7c3aed&hide_border=true&border_radius=12" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RoyhanAB&theme=gitdimmed&column=7&margin-w=12&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-> 🔨 *Pinning projects soon — stay tuned!*
+### 📈 Contribution Graph
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoyhanAB&repo=RoyhanAB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&border_radius=12)](https://github.com/RoyhanAB)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <div align="center">
 
-<a href="mailto:royhanalbiruni2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/royhanalbiruni/">
-  <img src="https://img.shields.io/badge/@royhanalbiruni-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/royhan-muhammad-al-biruni-699515341">
-  <img src="https://img.shields.io/badge/Royhan%20Al%20Biruni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-> 💡 *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — **Martin Fowler**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royhanalbiruni2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/@royhanalbiruni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/royhanalbiruni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royhan-muhammad-al-biruni-699515341)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**⭐ If you like what you see, consider starring some repos!**
-*Let's build something amazing together 🚀*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <i>Let's build something amazing together! 🚀</i>
 </div>
