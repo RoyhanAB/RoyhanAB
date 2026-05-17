@@ -1,4 +1,4 @@
-````md id="o8m9r2"
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Royhan%20Muhammad%20Al%20Biruni&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
@@ -38,7 +38,7 @@ const royhan = {
   passion:
     "Building clean, interactive, and modern web experiences ✨"
 };
-````
+
 
 * 🚀 Currently building modern web applications
 * 🎨 Love crafting clean and interactive interfaces
