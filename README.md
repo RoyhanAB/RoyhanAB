@@ -67,7 +67,7 @@ const royhan = {
 
 ## 🧪 LabTrack
 
-Modern laboratory management and borrowing system with clean UI/UX design.
+Modern laboratory management and borrowing system.
 
 ### ⚡ Tech Stack
 
