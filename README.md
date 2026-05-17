@@ -17,7 +17,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-```ts
+
 const royhan = {
   location: "Banten, Indonesia 🇮🇩",
 
