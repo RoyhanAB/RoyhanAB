@@ -187,4 +187,4 @@ TypeScript • Frontend
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
 
 </div>
-```
+
