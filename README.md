@@ -13,11 +13,25 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Royhan%20Muhammad%20Al%20Biruni&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Frontend+Developer+from+Indonesia+🇮🇩;Passionate+about+UI%2FUX+Design;Always+Learning+New+Technologies"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+</div>
+
+---
+
 # 💫 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-
+```ts
 const royhan = {
   location: "Banten, Indonesia 🇮🇩",
 
@@ -38,7 +52,7 @@ const royhan = {
   passion:
     "Building clean, interactive, and modern web experiences ✨"
 };
-
+```
 
 * 🚀 Currently building modern web applications
 * 🎨 Love crafting clean and interactive interfaces
@@ -126,7 +140,7 @@ TypeScript • Frontend
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyhanAB&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=RoyhanAB&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -187,4 +201,3 @@ TypeScript • Frontend
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
 
 </div>
-
