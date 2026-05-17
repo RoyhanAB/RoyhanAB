@@ -16,7 +16,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-```ts
+
 const royhan = {
   location: "Banten, Indonesia 🇮🇩",
 
@@ -37,7 +37,6 @@ const royhan = {
   passion:
     "Building clean, interactive, and modern web experiences ✨"
 };
-```
 
 * 🚀 Currently building modern web applications
 * 🎨 Love crafting clean and interactive interfaces
