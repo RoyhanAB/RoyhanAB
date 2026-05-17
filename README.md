@@ -16,6 +16,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
+```ts id="ok54zx"
 const royhan = {
   location: "Banten, Indonesia 🇮🇩",
 
@@ -36,6 +37,7 @@ const royhan = {
   passion:
     "Building clean, interactive, and modern web experiences ✨"
 };
+```
 
 * 🚀 Currently building modern web applications
 * 🎨 Love crafting clean and interactive interfaces
@@ -117,8 +119,6 @@ TypeScript • Frontend
 
 ---
 
-```html
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -136,8 +136,18 @@ TypeScript • Frontend
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
-```
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 # 🐍 Contribution Snake
 
