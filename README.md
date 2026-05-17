@@ -1,18 +1,3 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Royhan%20Muhammad%20Al%20Biruni&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Frontend+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Passionate+about+UI%2FUX+Design;Always+Learning+New+Technologies"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Royhan%20Muhammad%20Al%20Biruni&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
