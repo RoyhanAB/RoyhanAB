@@ -1,107 +1,190 @@
+````md id="o8m9r2"
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Royhan%20Muhammad%20Al%20Biruni&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Website%20and%20Software%20Developer&descAlignY=51&descAlign=62" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Passionate+Web+Developer;Always+learning+new+technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
-  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="RoyhanAB Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Royhan%20Muhammad%20Al%20Biruni&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Frontend+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Passionate+about+UI%2FUX+Design;Always+Learning+New+Technologies"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RoyhanAB&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
 </div>
 
-<br />
-
 ---
 
-### 👨‍💻 About Me
+# 💫 About Me
 
-```javascript
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+```ts
 const royhan = {
-  pronouns: "he" | "him",
   location: "Banten, Indonesia 🇮🇩",
-  currentFocus: ["TypeScript", "React", "Web Development"],
-  interests: ["Software Engineering", "UI/UX", "Open Source"],
-  funFact: "I love turning complex problems into simple, beautiful designs. 🎨",
-  contact: "royhanalbiruni2005@gmail.com"
+
+  role: "Frontend Developer",
+
+  focus: [
+    "React",
+    "TypeScript",
+    "Modern UI/UX"
+  ],
+
+  currentlyLearning: [
+    "Next.js",
+    "Backend Development",
+    "System Design"
+  ],
+
+  passion:
+    "Building clean, interactive, and modern web experiences ✨"
 };
-```
+````
 
-- 🔭 I'm currently working on **exciting Web Development Projects**
-- 🌱 I'm currently learning **TypeScript, React, and modern web frameworks**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, PHP, TypeScript, React**
-- 📫 How to reach me: **royhanalbiruni2005@gmail.com**
-
-<br />
+* 🚀 Currently building modern web applications
+* 🎨 Love crafting clean and interactive interfaces
+* 🌱 Exploring modern frontend technologies
+* 💡 Interested in UI/UX and creative development
+* ⚡ Turning ideas into real digital products
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,tailwind,bootstrap,mysql,postgres,git,github,vscode,figma,laravel,vite&perline=8" alt="Tech Stack" />
-  </a>
-</p>
-
-<br />
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RoyhanAB&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br />
-
----
-
-### 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyhanAB&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,mysql,git,github,vscode,figma,vite,kotlin&perline=5"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧪 LabTrack
+
+Modern laboratory management and borrowing system with clean UI/UX design.
+
+### ⚡ Tech Stack
+
+TypeScript • React • TailwindCSS
+
+</td>
+
+<td width="50%">
+
+## 🏫 Campus Room Booking
+
+Smart campus room reservation platform for efficient scheduling.
+
+### ⚡ Tech Stack
+
+TypeScript • Web App
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📱 Larisin POS
+
+Android-based Point of Sale application for modern businesses.
+
+### ⚡ Tech Stack
+
+Kotlin • Android
+
+</td>
+
+<td width="50%">
+
+## 🌐 INFONARUTO
+
+Anime information platform with modern responsive interface.
+
+### ⚡ Tech Stack
+
+TypeScript • Frontend
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyhanAB&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<br />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" width="100%" />
-</div>
 
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+# 🐍 Contribution Snake
 
 <div align="center">
-  <a href="mailto:royhanalbiruni2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/royhanalbiruni/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/royhan-muhammad-al-biruni-699515341">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+<img src="https://raw.githubusercontent.com/RoyhanAB/RoyhanAB/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
-<br />
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:royhanalbiruni2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/royhanalbiruni/">
+  <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/royhan-muhammad-al-biruni-699515341">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+
+### ✨ Code • Design • Build ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
+
 </div>
+```
