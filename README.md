@@ -119,13 +119,15 @@ TypeScript • Frontend
 
 ---
 
+```html
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoyhanAB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=RoyhanAB&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=RoyhanAB&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -133,21 +135,11 @@ TypeScript • Frontend
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyhanAB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
+```
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyhanAB&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
